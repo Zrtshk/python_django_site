@@ -1,0 +1,1 @@
+[{"model": "shop.deliverysettings", "pk": 1, "fields": {"standard_delivery_cost": "200.00", "free_delivery_threshold": "2000.00", "express_delivery_cost": "500.00", "updated_at": "2026-08-24T19:40:31.021Z"}}]
